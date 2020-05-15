@@ -1,9 +1,9 @@
 import sys
 from PYside2.QTWidgets import QApplication, QLabel
+import requests
 
-
-
-
+def Get_Url():
+  for x in 
 
 
 
@@ -20,4 +20,4 @@ from PYside2.QTWidgets import QApplication, QLabel
 
 #PORTS
 app=QApplication(sys.argv)
-label=QLabel(  )
+label=QLabel("NewsReel")
